@@ -1,1 +1,3 @@
-# React-vite-practise
+# After Clone
+
+Use commend "npm i"
